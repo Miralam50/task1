@@ -1,0 +1,53 @@
+html,body{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(56, 51, 51);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    margin-left: 50px;
+    color: rgb(82, 209, 209);
+    font-size: 50px;
+}
+
+p{
+    color: white;
+}
+
+ul li{
+    color: white;
+}
+
+ol li {
+    color: white;
+}
+
+h2{
+    color: rgb(82, 209, 209);
+}
+span{
+    color: orange;
+}
+
+.happy {
+    width: 200px;
+    height: 300px;
+}
+
+.sad {
+    width: 400px;
+    height: 300px;
+}
+
+.w3icon {
+    width: 100px;
+    height: 50px;
+    margin: 0;
+}
+
+a{
+    color: red;
+}
